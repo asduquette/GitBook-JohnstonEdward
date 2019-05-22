@@ -13,3 +13,8 @@
 * [Plate I: Portion of Inscription on base of Trajan Column](plates/plate-i.md)
 * [Plate II — Alphabet from Trajan Inscription](plates/plate-ii-alphabet-from-trajan-inscription.md)
 
+## Footnotes \[f \*\]
+
+* [310](footnotes-f/310.md)
+* [Footnotes 5–9](footnotes-f/footnotes-to-part-i.md)
+
