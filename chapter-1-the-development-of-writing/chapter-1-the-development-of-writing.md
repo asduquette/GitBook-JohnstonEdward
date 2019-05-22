@@ -20,7 +20,9 @@ In early _**cursive writing**_ — the running-hand or ordinary writing of the p
 
 Here it is sufficient to trace the history of the _formal_ Latin “hands,” but the continual, modifying influence exerted on them by the ordinary _cursive_ writing should be borne in mind. Notable results of this influence are seen in _Half-Uncials_ and _Italics_.
 
-**SQUARE CAPITALS** were formal, pen-made Roman Capitals, of the monumental type: they were used \(perhaps from the _second_\) till about the [\[p038\]](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#pageindex)end of the _fifth_ century for important books \(see Plate III.\).
+**SQUARE CAPITALS** were formal, pen-made Roman Capitals, of the monumental type: they were used \(perhaps from the _second_\) till about the end of the _fifth_ century for important books \(see Plate III.\).
+
+ \[p038\]
 
 **RUSTIC CAPITALS** were probably a variety of the “Square Capitals,” and were in use till about the end of the _fifth_ century \(fig. [4](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#fig04); see also p. [297](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#p297)\).
 
