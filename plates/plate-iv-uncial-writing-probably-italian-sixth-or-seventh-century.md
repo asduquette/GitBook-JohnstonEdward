@@ -6,9 +6,9 @@
 
 \(Shown in Brit. Mus. Department of MSS., Case G, No. 11.\)
 
-THE VOLUME contains 468 leaves \(7 inches by 434 inches\).
+THE VOLUME contains 468 leaves \(7 inches by 4 3/4 inches\).
 
-MARGINS, Approx.: _Inner_ 58 inch, _Head_ 7/8 inch, _Side_ 9/8 inch, _Foot_ 1 inch. \(They may have been cut down by the binder.\)
+MARGINS, Approx.: _Inner_ 5/8 inch, _Head_ 7/8 inch, _Side_ 9/8 inch, _Foot_ 8/8 inch. \(They may have been cut down by the binder.\)
 
 WRITING — A fine _round_ Uncial MS. \(pp. 38, 302\), arranged in long and short lines.
 
