@@ -12,12 +12,13 @@ THE STONE \(within the internal line of the moulding\): 3 feet 9 inches high, an
 
 THE BORDERS — The lettering practically fills the panel \(see p. 352\): the surrounding moulding is approx. 4 inches wide.
 
-THE LETTERS \(_for their forms_ see next note\).
+THE LETTERS \(_for their forms see note on Plate II_\).
 
-* First two lines: 4 1/2
-* Second two lines: 4 3/8
-* Fifth line: 4 1/8
-* Last line: 3 7/8 All approximate heights, inches
+  Approximate heights (inches):
+  * First two lines: 4 1/2
+  * Second two lines: 4 3/8
+  * Fifth line: 4 1/8
+  * Last line: 3 7/8
 
 THE SPACES \(between Lines\) decrease from 3 inches to 234 inches. A decrease in the height of the letters from the top to the foot line is common in early inscriptions \(see figs.203–205\). Several reasons for this suggest themselves: \(_a_\) \(Sometimes the beginning words, being farther from the reader, may require to be larger\). \(_b_\) The architectural beauty of a large heading \(comp. _stem heads_, p. 288\). \(_c_\) The importance of _beginnings_ generally \(there is very often a marked difference between the upper lines containing important words and the rest of the inscription: comp. figs. 197, 91\).
 
