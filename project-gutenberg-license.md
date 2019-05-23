@@ -18,10 +18,11 @@ Language: English
 
 Character set encoding: UTF-8
 
- _**START OF THIS PROJECT GUTENBERG EBOOK WRITING, ILLUMINATING, LETTERING**_
+_**START OF THIS PROJECT GUTENBERG EBOOK WRITING, ILLUMINATING, LETTERING**_
 
 Produced by Chris Curnow and RichardW and the Online Distributed Proofreading Team at [http://www.pgdp.net](http://www.pgdp.net) \(This file was produced from images generously made available by The Internet Archive\)
 
 **TRANSCRIBER'S NOTE**
 
 See Transcriber's Endnote for details of this transcription. Scans of the original printed book are available from archive.org/details/writingillumina00john.
+

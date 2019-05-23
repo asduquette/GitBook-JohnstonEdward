@@ -13,3 +13,4 @@ WORDS in early MSS. were not separated \(p. 112\).
 LINES ruled with a hard point \(p. 343\). The letters appear to have been written between every alternate pair \(p. 299\), but slightly over the line.
 
 A very handsome writing which might still be used for special MSS. \(see pp. 304, 300, 299\).
+
