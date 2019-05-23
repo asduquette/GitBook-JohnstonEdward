@@ -15,6 +15,6 @@
 
 ## Footnotes \[f \*\]
 
-* [310](footnotes-f/310.md)
 * [5–9](footnotes-f/footnotes-to-part-i.md)
+* [310](footnotes-f/310.md)
 
