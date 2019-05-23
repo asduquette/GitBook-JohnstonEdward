@@ -15,7 +15,7 @@
 * [Plate III — Written Roman Capitals, Fourth or Fifth Century](collotype-plates/plate-iii-written-roman-capitals-fourth-or-fifth-century.md)
 * [Plate IV — Uncial Writing, probably Italian Sixth or Seventh Century](collotype-plates/plate-iv-uncial-writing-probably-italian-sixth-or-seventh-century.md)
 * [Plate V — Uncial Writing, probably Continental Seventh Century](collotype-plates/plate-v-uncial-writing-probably-continental-seventh-century.md)
-* [Plate VI — Half Uncial \(Irish\), Seventh Century, Book of Kells](collotype-plates/plate-vi-half-uncial-irish-seventh-century-book-of-kells.md)
+* [Plate VI — Half Uncial \(Irish\), Seventh Century, Book of Kells hello!](collotype-plates/plate-vi-half-uncial-irish-seventh-century-book-of-kells.md)
 * [Plate VII — Half Uncial \(English\), circa 700 A.D.](collotype-plates/plate-vii-half-uncial-english-circa-700-a.d..md)
 * [Plate VIII — English Tenth-century Writing](collotype-plates/plate-viii-english-tenth-century-writing.md)
 * [Plate IX — English Writing, 1018](collotype-plates/plate-ix-english-writing-1018.md)
