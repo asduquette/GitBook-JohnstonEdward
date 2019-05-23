@@ -1,0 +1,8 @@
+# Notes on the Collotype Plates
+
+_\(Note — In order to make the illustrations \[whether of facsimiles or enlargements\] as large and as full as possible, I have sacrificed ““appearance” to use and allowed most of the collotype plates, and many of the diagrams in the book, to encroach on the margins — E. J._
+
+GENERAL NOTE — All the plates are in _facsimile_ as to size \(or _nearly so_, allowing for errors in reproduction\) except [I.](notes-on-the-collotype-plates.md), [II.](notes-on-the-collotype-plates.md), [XXII.](notes-on-the-collotype-plates.md), and [XXIV.](notes-on-the-collotype-plates.md), which had to be _reduced_, and therefore only _portions_ of the MSS. can be shown. Note — All the MSS. are on “Vellum” \(see p. [173](notes-on-the-collotype-plates.md)\). In order to get a better impression of the size and general proportion of a MS., the student might reconstruct it—or at least mark off the margins, text, &c — on paper, from the measurements given. Or a sheet of paper might be cut to the size of the given page or _opening_, with an aperture \(in its proper place\) through which the plate might be viewed.
+
+The plates are arranged in chronological order as nearly as possible. They are intended briefly to illustrate _the Development of the Formal Book Hands from the Roman Capital_ and _the General Development of the Illuminated MS._: I hope, moreover, that, fragmentary as they are, they will prove usefully suggestive in regard to _the Arrangement of Text and Lettering and Ornament_. The wonderful effect of the colouring cannot be given here, but, in any case, the illuminator should look at some original MSS. Several of the MSS. from which the plates are taken are exhibited in the British Museum.
+

@@ -6,7 +6,7 @@ The development and the relations of the principal types of letters are briefly 
 
 ![Fig. 1](../.gitbook/assets/i024.jpg)
 
-**THE ROMAN ALPHABET** __— The Alphabet, as we know it, begins with the ROMAN CAPITALS \[footnote [5](../footnotes-f/footnotes-to-part-i.md)\] \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I](../plates/plate-i.md)., [II.](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#plate02), and Chapter XV.\).
+**THE ROMAN ALPHABET** __— The Alphabet, as we know it, begins with the ROMAN CAPITALS \[footnote [5](../footnotes-f/footnotes-to-part-i.md)\] \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I]()., [II.](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#plate02), and Chapter XV.\).
 
 ![Fig. 2](../.gitbook/assets/i036-figure002.jpg)
 

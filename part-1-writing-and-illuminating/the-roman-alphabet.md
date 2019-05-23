@@ -2,7 +2,7 @@
 
 ### THE ROMAN ALPHABET
 
-The Alphabet, as we know it, begins with the ROMAN CAPITALS 5 \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I.](../plates/plate-i.md), [II.](../plates/plate-ii-alphabet-from-trajan-inscription.md), and Chapter XV.\).
+The Alphabet, as we know it, begins with the ROMAN CAPITALS 5 \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I.](), [II.](), and Chapter XV.\).
 
 ![Fig. 2](http://www.gutenberg.org/files/47089/47089-h/images/i036.jpg)
 
