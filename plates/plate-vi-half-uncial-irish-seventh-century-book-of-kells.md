@@ -2,9 +2,9 @@
 
 ![Plate VI.&#x2014;Half Uncial \(Irish\), Seventh Century, &#x201C;Book of Kells&#x201D; \(Latin Gospels\). Ex Libris Trinity College, Dublin. ](../.gitbook/assets/i444e-plate_vi.jpg)
 
-#### _PLATE VI.—Half-Uncial \(Irish\), Seventh Century. “Book of Kells” \(Latin Gospels\). Ex libris Trinity College, Dublin._ <a id="plate06-note"></a>
+#### _PLATE VI — Half-Uncial \(Irish\), Seventh Century. “Book of Kells” \(Latin Gospels\). Ex libris Trinity College, Dublin._ <a id="plate06-note"></a>
 
-\(From a facsimile—part of Pl. XLVII.—in “Celtic Ornaments from the Book of Kells,” by the Rev. Dr. T. K. Abbott.\)
+\(From a facsimile—part of Pl. XLVII — in “Celtic Ornaments from the Book of Kells,” by the Rev. Dr. T. K. Abbott.\)
 
 THE LEAVES — which are cut down and much damaged—measure 13 inches by 10 inches.
 

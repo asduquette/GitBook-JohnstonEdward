@@ -6,11 +6,11 @@ description: 'Portion of Inscription on base of Trajan Column, Rome, circa 114 A
 
 ![PLATE I.&#x2014;Portion of Inscription on base of Trajan Column,130 Rome, circa 114 A.D. Scale approx. 1/9 th linear.](../.gitbook/assets/i433e.jpg)
 
-#### PLATE I.—Portion of Inscription on base of Trajan Column,\[130\] Rome, circa 114 A.D. Scale approx. 1/9th linear. <a id="plate01-note"></a>
+#### PLATE I — Portion of Inscription on base of Trajan Column,\[130\] Rome, circa 114 A.D. Scale approx. 1/9th linear. <a id="plate01-note"></a>
 
 THE STONE \(within the internal line of the moulding\): 3 feet 9 inches high, and 9 feet 34 inch long.\[p410\]
 
-THE BORDERS.—The lettering practically fills the panel \(see p. 352\): the surrounding moulding is approx. 4 inches wide.
+THE BORDERS — The lettering practically fills the panel \(see p. 352\): the surrounding moulding is approx. 4 inches wide.
 
 THE LETTERS \(_for their forms_ see next note\).
 
