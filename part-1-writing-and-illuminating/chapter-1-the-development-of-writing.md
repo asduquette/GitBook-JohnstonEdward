@@ -102,4 +102,3 @@ At the time of the Renaissance the Italian scribes remodelled their “hands” 
 **ORNAMENTAL LETTERS** originated in the simple written forms, which were developed for special purposes, and were made larger or written in colour \(see Versals, &c., fig. 1,189\).
 
 Their first object was to mark important words, or the beginnings of verses, chapters, or books. As _Initial Letters_ they were much modified and embellished, and so gave rise to the art of _Illumination_ \(see pp. 113, 114\).
-
