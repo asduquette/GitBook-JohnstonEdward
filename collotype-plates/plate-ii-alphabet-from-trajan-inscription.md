@@ -18,7 +18,7 @@
 
 **E** and **L** — _lower serif_ pointed out \(p. [282](plate-ii-alphabet-from-trajan-inscription.md)\).
 
-## Plate II — Alphabet from Trajan Inscription
+\[p411\]
 
 **LO** \(shown sideways in collotype\) and **LT** show **L’**s _arm_ projecting under next letter.
 
@@ -46,3 +46,4 @@
 | **EF** | width approx. 3/7ths of height. |
 
 ![Fig. 219](../.gitbook/assets/i411-fig_219.jpg)
+
