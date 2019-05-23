@@ -28,29 +28,33 @@ Here it is sufficient to trace the history of the _formal_ Latin “hands,” bu
 
 ![Fig. 4.&#x2014;&#xC6;neid, on vellum, third or fourth century.](../.gitbook/assets/i038-figure004.jpg)
 
-_**ROMAN UNCIALS**_ _\*\*_were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
+**ROMAN UNCIALS**  were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
 
 ![Fig. 5.&#x2014;Psalter, fifth century.](../.gitbook/assets/i039-figure005.jpg)
 
 Uncials are true pen-forms\[[footnote 8](../footnotes-f/footnotes-to-part-i.md)\]—more quickly written than the “Square,” and clearer than the “Rustic” Capitals—having the characteristic, simple strokes and beautiful, rounded shapes which flow from the rightly handled reed or quill. The \[p040\]typical Uncial letters are the round D, E, H, M, U \(or V\), and A and Q \(see p. 300\).
 
-**ROMAN HALF-UNCIALS**—or _Semi-Uncials_—\(fig. 6\) were mixed _Uncial_ and _Cursive_ forms adopted by the scribes for ease and quickness in writing. Their evolution marks the formal change from _Capitals_ to “_Small-Letters_.”
+**ROMAN HALF-UNCIALS** — or _Semi-Uncials_ — \(fig. 6\) were mixed _Uncial_ and _Cursive_ forms adopted by the scribes for ease and quickness in writing. Their evolution marks the formal change from _Capitals_ to “_Small-Letters_.”
 
 ![Fig. 6.&#x2014;S. Augustine: probably French sixth century.](../.gitbook/assets/i040-figure006.jpg)
 
 They were first used as a book-hand for the less important books about the beginning of the sixth century.
 
-_**IRISH HALF-UNCIALS**_ were founded on the Roman Half-Uncials \(probably brought to Ireland by Roman missionaries in the sixth century\). As a beautiful writing, they attained in the seventh century a degree of perfection since unrivalled \(see Plate VI.\).
+**IRISH HALF-UNCIALS** were founded on the Roman Half-Uncials \(probably brought to Ireland by Roman missionaries in the sixth century\). As a beautiful writing, they attained in the seventh century a degree of perfection since unrivalled \(see [Plate VI](../collotype-plates/plate-vi-half-uncial-irish-seventh-century-book-of-kells.md).\).
 
 They developed in the eighth and ninth centuries into a “pointed” writing, which became the Irish national hand.
 
-**ENGLISH HALF-UNCIALS** \(fig. 7\) were modelled on the Irish Half-Uncials in the seventh \[p041\]century. They also developed in the eighth and ninth centuries into a “pointed” writing.
+\[p041\]
+
+**ENGLISH HALF-UNCIALS** \(fig. 7\) were modelled on the Irish Half-Uncials in the seventh century. They also developed in the eighth and ninth centuries into a “pointed” writing.
 
 ![Fig. 7.&#x2014;&#x201C;Durham Book&#x201D;: Lindisfarne, about A.D. 700.\(See also Plate VII.\)](../.gitbook/assets/i041-figure007.jpg)
 
 **CAROLINE \(or CARLOVINGIAN\) WRITING.**—While English and Irish writing thus came from Roman Half-Uncial, the Continental hands were much influenced by the rougher Roman Cursive, and were, till near the end of the eighth century, comparatively poor.
 
-“The period of Charlemagne is an epoch in the history of the handwritings of Western Europe. With the revival of learning naturally came a reform of the writing in which the works of literature were to be made known. A decree of the year 789 called for the revision of church books; and this work naturally brought with it a great activity in the writing schools of the chief monastic centres of France. And in none was there greater activity than at Tours, where, under the rule of Alcuin of York, who was abbot of St. Martin’s from 796 to 804, was specially developed the exact hand which has received the name of the Caroline Minuscule.”[\[footnote 9\]](../footnotes-f/footnotes-to-part-i.md)\[p042\]
+“The period of Charlemagne is an epoch in the history of the handwritings of Western Europe. With the revival of learning naturally came a reform of the writing in which the works of literature were to be made known. A decree of the year 789 called for the revision of church books; and this work naturally brought with it a great activity in the writing schools of the chief monastic centres of France. And in none was there greater activity than at Tours, where, under the rule of Alcuin of York, who was abbot of St. Martin’s from 796 to 804, was specially developed the exact hand which has received the name of the Caroline Minuscule.”[\[footnote 9\]](../footnotes-f/footnotes-to-part-i.md)
+
+\[p042\]
 
 \[p043\]
 
@@ -102,3 +106,4 @@ At the time of the Renaissance the Italian scribes remodelled their “hands” 
 **ORNAMENTAL LETTERS** originated in the simple written forms, which were developed for special purposes, and were made larger or written in colour \(see Versals, &c., fig. 1,189\).
 
 Their first object was to mark important words, or the beginnings of verses, chapters, or books. As _Initial Letters_ they were much modified and embellished, and so gave rise to the art of _Illumination_ \(see pp. 113, 114\).
+

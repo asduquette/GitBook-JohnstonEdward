@@ -2,7 +2,7 @@
 
 ## THE ROMAN ALPHABET
 
-The Alphabet, as we know it, begins with the ROMAN CAPITALS 5 \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I.](), [II.](), and Chapter XV.\).
+The Alphabet, as we know it, begins with the ROMAN CAPITALS 5 \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I.](../collotype-plates/plate-i.md), [II.](../collotype-plates/plate-ii-alphabet-from-trajan-inscription.md), and Chapter XV.\).
 
 ![Fig. 2](http://www.gutenberg.org/files/47089/47089-h/images/i036.jpg)
 
@@ -13,3 +13,4 @@ _FORMAL WRITING_—the “_book-hand_” or professional writing of the scribes�
 In early _cursive writing_—the running-hand or ordinary writing of the people—
 
 Here it is sufficient to trace the history of the _formal_ Latin “hands,” but the continual, modifying influence exerted on them by the ordinary _cursive_ writing should be borne in mind. Notable results of this influence are seen in _Half-Uncials_ and _Italics_.
+
