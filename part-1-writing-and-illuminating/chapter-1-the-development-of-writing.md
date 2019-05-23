@@ -6,7 +6,7 @@ The development and the relations of the principal types of letters are briefly 
 
 ![Fig. 1](../.gitbook/assets/i024.jpg)
 
-**THE ROMAN ALPHABET** __— The Alphabet, as we know it, begins with the ROMAN CAPITALS \[footnote [5](../footnotes-f/footnotes-to-part-i.md)\] \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I](../plates/plate-i.md)., [II.](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#plate02), and Chapter XV.\).
+**THE ROMAN ALPHABET** \_\_— The Alphabet, as we know it, begins with the ROMAN CAPITALS \[footnote [5](../footnotes-f/footnotes-to-part-i.md)\] \(see fig. 2\). Their fine monumental forms were evolved by the use of the chisel—probably under the influence of writing—and had reached full development about 2000 years ago \(see Plates [I](../collotype-plates/plate-i.md)., [II.](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#plate02), and Chapter XV.\).
 
 ![Fig. 2](../.gitbook/assets/i036-figure002.jpg)
 
@@ -22,13 +22,13 @@ Here it is sufficient to trace the history of the _formal_ Latin “hands,” bu
 
 **SQUARE CAPITALS** were formal, pen-made Roman Capitals, of the monumental type: they were used \(perhaps from the _second_\) till about the end of the _fifth_ century for important books \(see Plate III.\).
 
- \[p038\]
+\[p038\]
 
 **RUSTIC CAPITALS** were probably a variety of the “Square Capitals,” and were in use till about the end of the _fifth_ century \(fig. [4](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#fig04); see also p. [297](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#p297)\).
 
 ![Fig. 4.&#x2014;&#xC6;neid, on vellum, third or fourth century.](../.gitbook/assets/i038-figure004.jpg)
 
-_**ROMAN UNCIALS**_ ****were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
+_**ROMAN UNCIALS**_ _\*\*_were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
 
 ![Fig. 5.&#x2014;Psalter, fifth century.](../.gitbook/assets/i039-figure005.jpg)
 
@@ -68,8 +68,8 @@ In the highly finished hands—used from the sixth to the eighth centuries—suc
 
 The alteration in widths and directions of pen strokes, due to the use of the “slanted pen,” had these effects on the half-uncial forms \(see fig. 11\):—
 
-1. _The thin strokes taking an oblique_ \(_upward_\) _direction_ \(_a_\) \(giving a sharp angle with the verticals \(_d_, _a_\)\) led to angularity and narrower forms \(_a_1\), and a marked contrast between thick and thin strokes—due to the abrupt change from one to the other \(_a_2\).
-2. _The thick strokes becoming oblique_ \(_b_\) caused a thickening of the curves below on the left \(_b_1\), and above on the right \(_b_2\), which gave heavy shoulders and feet.
+1. _The thin strokes taking an oblique_ \(_upward_\) _direction_ \(_a_\) \(giving a sharp angle with the verticals \(_d_, _a_\)\) led to angularity and narrower forms \(\_a\_1\), and a marked contrast between thick and thin strokes—due to the abrupt change from one to the other \(\_a\_2\).
+2. _The thick strokes becoming oblique_ \(_b_\) caused a thickening of the curves below on the left \(\_b\_1\), and above on the right \(\_b\_2\), which gave heavy shoulders and feet.
 3. _The horizontal strokes becoming thicker_ \(_c_\) gave stronger and less elegant forms.\[p044\]
 4. _The vertical strokes becoming thinner_ \(_d_\) \(with oblique or pointed ends—not square ended\) increased the tendency to narrow letters.
 

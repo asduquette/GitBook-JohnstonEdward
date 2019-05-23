@@ -2,7 +2,7 @@
 
 5 “The alphabet which we use at the present day has been traced back, in all its essential forms, to the ancient hieratic writing of Egypt of about the twenty-fifth century before Christ. It is directly derived from the Roman alphabet; the Roman, from a local form of the Greek; the Greek, from the Phœnician; the Phœnician, from the Egyptian hieratic. . . . We may without exaggeration . . . carry back the invention of Egyptian writing to six or seven thousand years before Christ.”—_Sir Edward Maunde Thompson, “Greek and Latin Palæography,”_ pp. 1–2.
 
-6 Ibid., p. 196.5 
+6 Ibid., p. 196.5
 
 “The alphabet which we use at the present day has been traced back, in all its essential forms, to the ancient hieratic writing of Egypt of about the twenty-fifth century before Christ. It is directly derived from the Roman alphabet; the Roman, from a local form of the Greek; the Greek, from the Phœnician; the Phœnician, from the Egyptian hieratic. . . . We may without exaggeration . . . carry back the invention of Egyptian writing to six or seven thousand years before Christ.”—_Sir Edward Maunde Thompson, “Greek and Latin Palæography,”_ pp. 1–2.
 
