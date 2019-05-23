@@ -2,15 +2,19 @@
 
 ![Plate X.&#x2014;Italian \(first half of\) Twelfth-century Writing. \(Homilies and Lessons\). Brit. Mus., Harl. MS. 7183. \(See also enlargement, fig. 174\).](../.gitbook/assets/i449e-plate_ix.jpg)
 
-PLATE V — Uncial Writing, probably Continental Seventh Century. \(Gospel of S. John\). Ex libris Stonyhurst College. \(See also enlargement, fig. 169.\) \(From a facsimile in the Palæographical Society’s Publications, 1st Series, Vol. II., Pl. 17.\)
+#### _PLATE IX.—English Writing, dated 1018. Two portions of a Charter of CNUT. Brit. Museum._ \(_See also enlargement, fig._ 173.\) \[_Pl. reduced scale_ 11/12_ths._\] <a id="plate09-note"></a>
 
-THE VOLUME contains 90 leaves, approx. 5 3 8 inches by 3 5/8 inches. The Inner margin is approximately 1/2 inch wide.
+\(Shown in Brit. Mus., Department of MSS., Case V., No. 3.\)
 
-WRITING.—A very beautiful pointed \(slanted-pen\) Uncial. The “pointed” character of the letters, which yet retain their typical roundness, give this writing a peculiar charm. Note the top of the P has a marked angle, and the M and H, and even the O, have this slightly or strongly.
+THE WRITING resembles that in Plate VIII. \[p417\]\(see above\), but is more slender and rounder—the pen being a little less slanted, and the _arches_ more curved, and showing more of the _thin_ stroke. The ascenders and descenders are longer, the heads are more marked, and there is a general elegance and distinction, due perhaps to the MS. being a charter. Charter-hands are generally more showy and less legible than Book-hands, but in this hand there is great legibility, and a very few changes \(similar to those suggested above\) would make it quite suitable for modern use. Its relation to the Roman Small-Letter is obvious.
 
-RULING.—Single lines, rather wide \(p. 305\).
+Notes.—The \(black\) ![MALTESE CROSS V and SMALL U](../.gitbook/assets/i417c1.jpg) were probably built-up with the writing pen.
 
-ARRANGEMENT.—Certain of the lines are indented one letter \(p. 264\).
+The forms of _**a**_**,** _**e**_**,** _**g**_**, \(**_**h**_**\),** _**r**_**,** may be noted as differing considerably from the tenth-century hand.
 
-LARGE LETTERS.—On verso Col marking a “Chapter” is built-up in red, on recto the three large letters \(marking sections\) are simply written with the text pen \(p. 299\). \(The passage is S. John xi. 46–56.\)
+The combined _ra_ \(in the 4th line\) is curious; and the _**r**_ ****in _Anglorum_ — this _**r**_ \(which represents the Bow and Tail of **R**\) commonly follows the round letters _b_, _o_, _p_, in “Gothic” writing: there is another curious form in the linked ![rt](../.gitbook/assets/i417c2.jpg) in _cartula_ \(last line\).
+
+The word **CNUT** and several other names are in ornamental “Rustic” Capitals \(see p. 297\).
+
+The two lines of English from another part of the charter have very long stems and ornamental serifs, giving a very decorative effect \(see _footnote_, p. 326\).
 
