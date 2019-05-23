@@ -2,7 +2,7 @@
 
 ![Plate II.&#x2014;Alphabet from Trajan Inscription \(Circa 114 A.D.\) Scale approx. 1 6 linear. \(See also Plate I\). Note.&#x2014;L and O are shown sideways in the 2nd line.](../.gitbook/assets/i435e-plateii.jpg)
 
-THE “TRAJAN” ALPHABET — Very fine letters for inscriptions in stone: possibly painted before incision \(see p. [292](plate-ii-alphabet-from-trajan-inscription.md)\); see also remarks on Roman Capitals, pp. [268](plate-ii-alphabet-from-trajan-inscription.md)–[296](plate-ii-alphabet-from-trajan-inscription.md), and note:—
+**THE “TRAJAN” ALPHABET** — Very fine letters for inscriptions in stone: possibly painted before incision \(see p. [292](plate-ii-alphabet-from-trajan-inscription.md)\); see also remarks on Roman Capitals, pp. [268](plate-ii-alphabet-from-trajan-inscription.md)–[296](plate-ii-alphabet-from-trajan-inscription.md), and note:—
 
 **SERIFS** — Small and carefully curved.
 
@@ -28,9 +28,9 @@ THE “TRAJAN” ALPHABET — Very fine letters for inscriptions in stone: possi
 
 **O** — very beautiful: _width slightly less than height_ \(p. [270](plate-ii-alphabet-from-trajan-inscription.md)\); slightly _tilted_ \(as are all the other curved letters: see p. [285](plate-ii-alphabet-from-trajan-inscription.md)\).
 
-**P** — _Bow_ not joined to stem below \(first P rounder topped\).
+**P** — _Bow_ not joined to stem below \(first **P** rounder topped\).
 
-**Q** — _tail_ carried under V \(U\).
+**Q** — _tail_ carried under **V** \(**U**\).
 
 **R** — _large bow_: straight tail, with finishing-curve \(p. [291](plate-ii-alphabet-from-trajan-inscription.md)\).
 
@@ -46,3 +46,4 @@ THE “TRAJAN” ALPHABET — Very fine letters for inscriptions in stone: possi
 | **EF** | width approx. 3/7ths of height. |
 
 ![Fig. 219](../.gitbook/assets/i411-fig_219.jpg)
+

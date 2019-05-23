@@ -28,7 +28,7 @@ Here it is sufficient to trace the history of the _formal_ Latin “hands,” bu
 
 ![Fig. 4.&#x2014;&#xC6;neid, on vellum, third or fourth century.](../.gitbook/assets/i038-figure004.jpg)
 
-_**ROMAN UNCIALS**_ _\*\*_were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
+_**ROMAN UNCIALS**_ \_\*\*\_were fully developed by the fourth century, and were used from the fifth till the eighth century for the finest books \(fig. 5\).
 
 ![Fig. 5.&#x2014;Psalter, fifth century.](../.gitbook/assets/i039-figure005.jpg)
 
@@ -102,3 +102,4 @@ At the time of the Renaissance the Italian scribes remodelled their “hands” 
 **ORNAMENTAL LETTERS** originated in the simple written forms, which were developed for special purposes, and were made larger or written in colour \(see Versals, &c., fig. 1,189\).
 
 Their first object was to mark important words, or the beginnings of verses, chapters, or books. As _Initial Letters_ they were much modified and embellished, and so gave rise to the art of _Illumination_ \(see pp. 113, 114\).
+

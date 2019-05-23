@@ -1,11 +1,11 @@
 # Table of contents
 
 * [GitBook-JohnstonEdward](README.md)
+* [Project Gutenberg License](project-gutenberg-license.md)
 
 ## Part 1: Writing & Illuminating
 
 * [Chapter 1 The Development of Writing](part-1-writing-and-illuminating/chapter-1-the-development-of-writing.md)
-* [The Roman Alphabet](part-1-writing-and-illuminating/the-roman-alphabet.md)
 
 ## Collotype Plates
 
