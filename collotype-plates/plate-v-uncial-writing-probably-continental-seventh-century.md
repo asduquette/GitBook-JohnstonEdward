@@ -2,7 +2,7 @@
 
 ![Plate V.&#x2014;Uncial Writing, probably Continental Seventh Century \(Gospel of S. John\). Ex Libris Stonyhurst College. \(See also enlargement, fig. 169.\) ](../.gitbook/assets/i442e-plate_v.jpg)
 
-## PLATE V — Uncial Writing, probably Continental Seventh Century. \(Gospel of S. John\). Ex libris Stonyhurst College. \(See also enlargement, fig. 169.\)   <a id="plate05-note"></a>
+PLATE V — Uncial Writing, probably Continental Seventh Century. \(Gospel of S. John\). Ex libris Stonyhurst College. \(See also enlargement, fig. 169.\)  
 
 \(From a facsimile in the Palæographical Society’s Publications, 1st Series, Vol. II., Pl. 17.\)
 

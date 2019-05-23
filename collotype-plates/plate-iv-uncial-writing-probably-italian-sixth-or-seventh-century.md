@@ -2,7 +2,7 @@
 
 ![Plate IV.&#x2014;Uncial Writing, probably Italian Sixth or Seventh Century. \(Latin Gospels\). Brit. Museum, Harl. MS. 1775.](../.gitbook/assets/i439e-plate_iv.jpg)
 
-## PLATE IV — Uncial Writing, probably Italian Sixth or Seventh Century. \(Latin Gospels\). Brit. Museum, Harl. MS. 1775.   <a id="plate04-note"></a>
+PLATE IV — Uncial Writing, probably Italian Sixth or Seventh Century. \(Latin Gospels\). Brit. Museum, Harl. MS. 1775.  
 
 \(Shown in Brit. Mus. Department of MSS., Case G, No. 11.\)
 

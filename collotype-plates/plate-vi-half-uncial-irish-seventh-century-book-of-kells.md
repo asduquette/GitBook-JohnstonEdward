@@ -1,8 +1,8 @@
-# Plate VI — Half Uncial \(Irish\), Seventh Century, Book of Kells hello!
+# Plate VI — Half Uncial \(Irish\), Seventh Century, Book of Kells
 
 ![Plate VI.&#x2014;Half Uncial \(Irish\), Seventh Century, &#x201C;Book of Kells&#x201D; \(Latin Gospels\). Ex Libris Trinity College, Dublin. ](../.gitbook/assets/i444e-plate_vi.jpg)
 
-## _PLATE VI — Half-Uncial \(Irish\), Seventh Century. “Book of Kells” \(Latin Gospels\). Ex libris Trinity College, Dublin._   <a id="plate06-note"></a>
+_PLATE VI — Half-Uncial \(Irish\), Seventh Century. “Book of Kells” \(Latin Gospels\). Ex libris Trinity College, Dublin._  
 
 \(From a facsimile—part of Pl. XLVII — in “Celtic Ornaments from the Book of Kells,” by the Rev. Dr. T. K. Abbott.\)
 
@@ -10,7 +10,9 @@ THE LEAVES — which are cut down and much damaged—measure 13 inches by 10 inc
 
 WRITING — A beautiful and highly finished \(approx. straight pen\) Half-Uncial \(pp. 40, 304\), tending to ornamental and fanciful forms whenever opportunity offered. \(Note the treatment of inde.\)
 
-ARRANGEMENT — Long and short lines: wide spacing.\[p414\]
+ARRANGEMENT — Long and short lines: wide spacing.
+
+\[p414\]
 
 THE LETTERS combine extreme gracefulness with an unusual appearance of strength. This is mainly due to the ends of _all_ the strokes being finished; the thick strokes have large, triangular heads \(p. 327\) on the left, and bases broadened by an additional stroke below on the right \(thus ![solidus, thick](http://www.gutenberg.org/files/47089/47089-h/images/i414c1.jpg)\). And the horizontal thin strokes are either finished with a triangular terminal \(p. 246\), or run on into the next letter—_joining the letters together_.
 
