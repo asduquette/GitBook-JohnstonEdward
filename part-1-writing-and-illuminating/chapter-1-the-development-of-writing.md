@@ -24,7 +24,7 @@ Here it is sufficient to trace the history of the _formal_ Latin “hands,” bu
 
 \[p038\]
 
-**RUSTIC CAPITALS** were probably a variety of the “Square Capitals,” and were in use till about the end of the _fifth_ century \(fig. [4](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#fig04); see also p. [297](http://www.gutenberg.org/files/47089/47089-h/47089-h.htm#p297)\).
+**RUSTIC CAPITALS** were probably a variety of the “Square Capitals,” and were in use till about the end of the _fifth_ century \(fig. 4; see also p. 297\).
 
 ![Fig. 4.&#x2014;&#xC6;neid, on vellum, third or fourth century.](../.gitbook/assets/i038-figure004.jpg)
 
