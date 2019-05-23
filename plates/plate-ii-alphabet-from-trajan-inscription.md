@@ -1,6 +1,6 @@
----
+—-
 description: Alphabet from Trajan Inscription (Circa 114 A.D.)
----
+—-
 
 # Plate II — Alphabet from Trajan Inscription
 

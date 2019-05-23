@@ -1,6 +1,6 @@
----
+—-
 description: 'Portion of Inscription on base of Trajan Column, Rome, circa 114 A.D.'
----
+—-
 
 # Plate I: Portion of Inscription on base of Trajan Column
 
