@@ -6,7 +6,7 @@ description: '[p420][p421][p453]'
 
 ![Plate XI.&#x2014;English \(late\) Twelfth-century Writing, with flourished Capitals. \(Breviary\). Brit. Mus., Royal MS. 2. A.X.](../.gitbook/assets/i453e-plate_xi.jpg)
 
-#### _PLATE XI.—English \(late\) Twelfth-century Writing, with flourished Capitals. \(Breviary\). Brit. Mus., Royal MS. 2. A. x._ <a id="plate11-note"></a>
+**PLATE XI**.—English \(late\) Twelfth-century Writing, with flourished Capitals. \(Breviary\). Brit. Mus., Royal MS. 2. A. x.
 
 \(Shown in Brit. Mus., Department of MSS., Case D, No. 111.\)
 
