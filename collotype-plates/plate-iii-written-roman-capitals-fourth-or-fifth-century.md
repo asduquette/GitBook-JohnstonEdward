@@ -2,7 +2,7 @@
 
 ![Plate III.&#x2014;Written Roman Capitals, Fourth or Fifth Century. \(Virgil&#x2019;s &#x201C;&#xC6;neid&#x201D;\).](../.gitbook/assets/i437e-plate_iii.jpg)
 
-PLATE III — Written Roman Capitals, Fourth or Fifth Century. \(Virgil’s “Æneid”\).
+**PLATE III** — Written Roman Capitals, Fourth or Fifth Century. \(Virgil’s “Æneid”\).
 
 \(From a facsimile in the Palæographical Society’s Publications, 1st Series, Vol. II., Pl. 208, of a MS. in the library of S. Gall, Switzerland. See also “Greek and Latin Palæography,” p. 185.\)
 
